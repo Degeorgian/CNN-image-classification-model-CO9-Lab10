@@ -18,7 +18,7 @@ The model will predict whether it is **Acne** or **Eczema** and provide a confid
 @st.cache_resource
 def load_model():
     # Replace 'best_model.keras' with the exact filename of your saved model
-    return tf.keras.models.load_model('./Dataset/best_model.keras')
+    return tf.keras.models.load_model('best_model.keras')
 
 model = load_model()
 
