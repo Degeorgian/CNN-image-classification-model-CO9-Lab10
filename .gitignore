@@ -1,0 +1,5 @@
+# Ignore everything inside Dataset
+Dataset/*
+
+# Keep the model file
+!Dataset/best_model.keras
