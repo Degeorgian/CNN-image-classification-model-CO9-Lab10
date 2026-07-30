@@ -254,9 +254,12 @@ Display prediction + confidence score
 - Add automated tests and CI for the Streamlit app.
 - Containerize the app with Docker for easier deployment.
 
+---
   
 Participants:
 Joseph Prince Aniekeme 22/EG/cO/1774
+
+---
 
 
 ## License
