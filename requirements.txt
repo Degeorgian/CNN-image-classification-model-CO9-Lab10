@@ -2,3 +2,5 @@ streamlit
 tensorflow-cpu
 Pillow
 numpy
+pandas
+os
