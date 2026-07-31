@@ -260,6 +260,7 @@ Participants:
 
 - Joseph Prince Aniekeme 22/EG/cO/1774
 - Edem, Etimbuk Akaninyene 22/EG/CO/1694
+- Akpan Goodness Bright 22/EG/CO/1704
 - Effiong, Wisdom Paulinus 22/EG/CO/1794
 ---
 
